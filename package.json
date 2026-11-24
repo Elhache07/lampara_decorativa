@@ -1,0 +1,12 @@
+{
+  "name": "app-lampara",
+  "version": "1.0.0",
+  "description": "Cálculo de una lámpara decorativa: ecuación cuadrática, ecuación lineal, volumen y área del cubo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
